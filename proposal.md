@@ -1,5 +1,5 @@
 # Title
-DogFight
+PongPing
 
 ## Repository
 https://github.com/SmithE6499/Smith_Elisa_FinalProject_PFDA.git
